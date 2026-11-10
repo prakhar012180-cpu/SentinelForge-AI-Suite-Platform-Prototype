@@ -7,6 +7,7 @@ Advanced AI Engineering & Developer Sandbox
 
 A Streamlit-based developer sandbox that combines four AI engineering concepts into one interactive dashboard.
 
+
 ✨ Features
 
 
@@ -85,6 +86,7 @@ Pydantic
 QLoRA
 LLM Security
 
+
 📁 Project Structure
 SentinelForge-AI-Suite/
 ├── app.py
@@ -113,6 +115,7 @@ Security Firewall	Prompt security inspection
 AST Reviewer	Code vulnerability checks
 QLoRA Console	Fine-tuning simulation
 
+
 ⚠️ Important Notes
 This project is an interactive prototype. The voice pipeline, security checks, code analysis, and QLoRA training are currently simulated or heuristic-based, not production integrations.
 🔭 Future Enhancements
@@ -121,9 +124,10 @@ This project is an interactive prototype. The voice pipeline, security checks, c
 - Python AST-based code analysis.
 - Actual Hugging Face PEFT/QLoRA training.
 - GPU monitoring and experiment tracking.
+
+
 🤝 Contributing
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
-📄 License
-No license specified yet. Add a LICENSE file before distribution.
+
 
 Built with Python and Streamlit ⚡
