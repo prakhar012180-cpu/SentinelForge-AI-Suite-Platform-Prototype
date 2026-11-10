@@ -132,4 +132,8 @@ This project is an interactive prototype. The voice pipeline, security checks, c
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
 
+🔗 Live Link 
+https://sentinelforge-ai-suite.ai.studio
+
+
 Built with Python and Streamlit ⚡
